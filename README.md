@@ -1,13 +1,12 @@
-# Call of Duty UO Extended [Client]
+# Call of Duty 1.5x [Client]
 
-CoDExtended Client (1.51x), is a client-side modification for Call of Duty UO 1.51.
+CoDExtended Client (1.5x), is a client-side modification for Call of Duty 1.5.
 
 ## Changes/additions
 
 - new UI element (cg_xui_fps)
 - Discord Rich Presence
 - unlocked FOV,thirdperson and thirdperson angle
-- increased gamestate memory
 - bugfixes
 
 ## Building from source
