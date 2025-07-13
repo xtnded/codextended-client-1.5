@@ -7,6 +7,7 @@ CoDExtended Client (1.5x), is a client-side modification for Call of Duty 1.5.
 - new UI element (cg_xui_fps)
 - Discord Rich Presence
 - unlocked FOV,thirdperson and thirdperson angle
+- Support for disabling jump slowdown
 - bugfixes
 
 ## Building from source
