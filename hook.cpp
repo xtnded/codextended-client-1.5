@@ -66,5 +66,7 @@ bool apply_hooks() {
 	void R_Init();
 	__call(0x512042, (int)R_Init);
 
+	__nop(0x418943, 6); //remove flickering when loading into a map.
+
 	return true;
 }
